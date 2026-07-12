@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Arpit 👋
 
-<!--
-**ArpitRajput05/ArpitRajput05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student learning full-stack web development (MERN stack) and solving DSA (Data Structures & Algorithms).
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- Node.js, Express, MongoDB
+- Data Structures & Algorithms (Java)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [Student Management System](https://github.com/ArpitRajput05/student-management-system) — a full CRUD app to manage student records, built with Node.js, Express, and MongoDB
+
+## 🎓 Certifications
+- 🎓 The Complete Full-Stack Web Development Bootcamp — Udemy (61.5 hours)
+- 🎓 The Bits and Bytes of Computer Networking — Google (via Coursera)
+- 🎓 Introduction to Machine Learning — NPTEL, IIT Madras
+- 🎓 Marketing Analytics — NPTEL, IIT Kharagpur (Elite, 90%)
+- 🎓 GenAI Powered Data Analytics Job Simulation — Tata (via Forage)
+
+## 📫 Reach me
+- Email:arpitrajput.it@gmail.com
+
+
