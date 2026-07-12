@@ -7,6 +7,7 @@ CS student learning full-stack web development (MERN stack) and solving DSA (Dat
 - Node.js, Express, MongoDB
 - Data Structures & Algorithms (Java)
 - Git & GitHub
+- python ,numpy,pandas,matplolib ,scikit lern and data analyst
 
 ## 📌 Projects
 - [Student Management System](https://github.com/ArpitRajput05/student-management-system) — a full CRUD app to manage student records, built with Node.js, Express, and MongoDB
