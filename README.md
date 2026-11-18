@@ -13,7 +13,7 @@
 
 I am a **Software Engineer** specializing in enterprise backend architecture and practical Artificial Intelligence / Data Science:
 
-- ☕ **Enterprise Java & Backend:** Architecting secure, scalable microservices and monolithic systems using **Java 17+, Spring Boot 3, Spring Security, JWT, Apache Maven, Hibernate/JPA**, and **RESTful APIs**.
+- ☕ **Enterprise Java & Backend:** Architecting secure, scalable microservices and monolithic systems using **Java 17+, Spring Boot 3, Spring Security, JWT, Hibernate/JPA**, and **RESTful APIs**.
 - 🧠 **AI, Deep Learning & LLMs:** Designing end-to-end **Machine Learning pipelines**, building predictive models with **ANN (Artificial Neural Networks)**, and creating generative AI assistants with **Large Language Models (LLMs)** and **RAG (Retrieval-Augmented Generation)**.
 - 📊 **Data Science & Fast APIs:** Developing automated data ingestion, cleaning, and predictive analytics dashboards with **FastAPI, Streamlit, Pandas, NumPy, Scikit-Learn**, and **Plotly**.
 - 🌐 **Modern Full-Stack Integration:** Connecting performant backend APIs to responsive frontends with **React, TypeScript**, and **Vite**.
@@ -29,7 +29,6 @@ I am a **Software Engineer** specializing in enterprise backend architecture and
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
@@ -58,7 +57,6 @@ I am a **Software Engineer** specializing in enterprise backend architecture and
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -69,10 +67,10 @@ I am a **Software Engineer** specializing in enterprise backend architecture and
 
 | Project | Technologies | Key Highlights |
 | :--- | :--- | :--- |
-| **[HirJob — Full-Stack Job Portal](https://github.com/ArpitRajput05/job-portal-full-stack)** | Java 17, Spring Boot 3, Spring Security, JWT, Maven, MySQL, React + Vite | Production-grade recruitment platform with role-based access (Recruiter vs. Candidate), job management pipelines, application status tracking, and secure JWT-guarded REST APIs. |
+| **[HirJob — Full-Stack Job Portal](https://github.com/ArpitRajput05/job-portal-full-stack)** | Java 17, Spring Boot 3, Spring Security, JWT, MySQL, React + Vite | Production-grade recruitment platform with role-based access (Recruiter vs. Candidate), job management pipelines, application status tracking, and secure JWT-guarded REST APIs. |
 | **[FitFuel — Fitness & Nutrition Companion](https://github.com/ArpitRajput05/fitfuel)** | Java 17, Spring Boot, Spring Security, JWT, React, TypeScript | Comprehensive fitness platform enabling calorie tracking, customized workout routines, diet plans, and secure user profile authentication. |
-| **[SkillForge — Learning Platform](https://github.com/ArpitRajput05/skillforge)** | Java 17, Spring Boot, Spring Data JPA, Maven, React, TypeScript | Online course management system with role-based enrollment, modular curriculum tracking, and JPA database operations. |
-| **[Healthcare Appointment Manager](https://github.com/ArpitRajput05/healthcare-appointment-manager)** | Java, Spring Boot, Maven, REST APIs | Reliable healthcare scheduling backend facilitating doctor slot availability, appointment confirmations, patient records, and status updates. |
+| **[SkillForge — Learning Platform](https://github.com/ArpitRajput05/skillforge)** | Java 17, Spring Boot, Spring Data JPA, React, TypeScript | Online course management system with role-based enrollment, modular curriculum tracking, and JPA database operations. |
+| **[Healthcare Appointment Manager](https://github.com/ArpitRajput05/healthcare-appointment-manager)** | Java, Spring Boot, REST APIs | Reliable healthcare scheduling backend facilitating doctor slot availability, appointment confirmations, patient records, and status updates. |
 | **[Online Core Banking System](https://github.com/ArpitRajput05/online-banking-system)** | Java, OOP, SQL, ACID Compliance | High-integrity banking application implementing atomic money transfers, ledger entries, balance inquiries, and robust transaction safety. |
 | **[LeetCode Binary Tree Solutions](https://github.com/ArpitRajput05/Leetcode-Binary-Tree)** | Java, DSA, Tree Algorithms | Curated repository of optimized tree traversals, DFS, BFS, and tree manipulation algorithms solved with clean OOP principles. |
 
